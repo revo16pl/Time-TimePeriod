@@ -1,0 +1,6 @@
+C:\Users\Rados\source\repos\TimeTimePeriodLib\TimeTimePeriodLib\bin\Debug\TimeTimePeriodLib.dll
+C:\Users\Rados\source\repos\TimeTimePeriodLib\TimeTimePeriodLib\bin\Debug\TimeTimePeriodLib.pdb
+C:\Users\Rados\source\repos\TimeTimePeriodLib\TimeTimePeriodLib\obj\Debug\TimeTimePeriod.csprojAssemblyReference.cache
+C:\Users\Rados\source\repos\TimeTimePeriodLib\TimeTimePeriodLib\obj\Debug\TimeTimePeriod.csproj.CoreCompileInputs.cache
+C:\Users\Rados\source\repos\TimeTimePeriodLib\TimeTimePeriodLib\obj\Debug\TimeTimePeriodLib.dll
+C:\Users\Rados\source\repos\TimeTimePeriodLib\TimeTimePeriodLib\obj\Debug\TimeTimePeriodLib.pdb
