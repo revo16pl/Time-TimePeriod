@@ -1,6 +1,6 @@
 ## Implementacja typów `Time`, `TimePeriod` w CSharp
 
-###### Zadanie Ma Charakter ćwiczebny. W Bibliotekach C# DostęPne Są Gotowe Struktury/Klasy RealizująCe (Prawdopodobnie Lepiej) Przedstawione ZałożEnia (Datetime, Datetimeoffset, Timespan).
+###### Zadanie ma charakter ćwiczebny. W Bibliotekach C# Dostępne są gotowe struktury/klasy realizująCe (Prawdopodobnie lepiej) przedstawione założenia (Datetime, Datetimeoffset, Timespan).
 
 ###  Problem, cel
 Zaprogramuj, wzajemnie powiązane ze sobą struktury Time oraz TimePeriod, Odpowiadające kolejno: punktowi w czasie i okresie w czasie.
